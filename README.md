@@ -21,6 +21,7 @@
 * HTML
 * Javascript
 * Tailwind CSS
+* Flowbite UI
 * Webpack
 
 ### How To Run?
