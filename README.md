@@ -25,6 +25,7 @@
 * Webpack
 
 ### How To Run?
+* clone this project
 * npm i
 * npm run build
-npm run start-dev
+* npm run start-dev
