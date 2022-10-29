@@ -32,9 +32,9 @@ const detailMovies = (movie) => {
                     }</h3>
                 </div>
             </div>
-            <div class="relative top-[14.5rem] md:top-[19rem] mx-4 md:mx-10 h-[40%]">
+            <div class="relative top-[14.5rem] md:top-[22rem] mx-4 md:mx-10 h-[40%]">
                 <p class="text-[11px] md:text-lg text-justify">"${
-                  movie.overview
+                  movie.overview.substr(0, 388)
                 }"</p>
             </div>
         </div>
