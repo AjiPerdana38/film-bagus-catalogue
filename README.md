@@ -2,6 +2,7 @@
 
 <p>Website Film Bagus ini adalah Submission Dicoding "Belajar Fundamental Front-end Web Development."</p>
 <p>Data yang ada pada website di fetch dari website <a href="https://developers.themoviedb.org/3/getting-started/introduction">TMDB API</a> </p>
+<p>Anda bisa mengunjungi laman websitenya pada tauran berikut ini : <a href="https://film-bagus-aji.netlify.app/">Film Bagus</a></p>
 
 ## Fitur Aplikasi Web Film Bagus ini:
 * Catalogue Popular Movie
